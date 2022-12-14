@@ -1,0 +1,47 @@
+{
+  "users": [
+    {
+      "id": "902ea12b-40eb-4f23-bddc-ca1d453744c2",
+      "name": "fghfghfgh",
+      "surname": "gfhfgh",
+      "email": "pacomekengafe@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "2b3a17d3-559d-4b36-915e-d646891aa0c7",
+      "name": "Kengali Fegue",
+      "surname": "Pacôme",
+      "email": "pacomekfp@gmail.com",
+      "password": "123456"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "319d0198-00c6-446a-9bee-7dc41a3c6b11",
+      "title": "Morpion Interface graphique",
+      "description": "Developper l'interface graphique du morpion",
+      "date": "2022-12-15",
+      "user": "pacomekengafe@gmail.com",
+      "isDone": false,
+      "tag": 1
+    },
+    {
+      "id": "80ed0ff0-73bb-4b45-93b2-d1604ee795aa",
+      "title": "Morpion partie back",
+      "description": "Developper la logique metier du morpion",
+      "date": "2022-12-17",
+      "user": "pacomekengafe@gmail.com",
+      "isDone": false,
+      "tag": 1
+    },
+    {
+      "id": "f4ddbd32-1f3b-405d-9340-1ee5491cd2a5",
+      "title": "Morpion partie IA",
+      "description": "Developper la premiere IA pour le morpion",
+      "date": "2022-12-20",
+      "user": "pacomekengafe@gmail.com",
+      "isDone": false,
+      "tag": 1
+    }
+  ]
+}
